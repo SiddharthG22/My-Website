@@ -1,0 +1,50 @@
+p2{
+    font-family: 'Oswald', serif;
+    color:black;
+}
+
+table{
+    border: solid 1px black;
+    width: 600px;
+}
+
+h1{
+    font-family: 'Alfa Slab One', cursive;
+}
+
+li{
+    color:white;
+}
+
+p4{
+    font-family: 'Roboto Mono', monospace;
+    text-align: right;
+    color: cadetblue;
+    font-size: 55px;
+}
+
+p1{
+    font-family:'Oswald', serif;
+    text-align: center;
+    color: saddlebrown;
+}
+
+table td{
+    text-align: center;
+    margin: 20px;
+    width: 400px;
+    border: solid 1px;
+}
+
+table th{
+    text-align: center;
+    margin: 20px;
+    width: 400px;
+    border: solid 1px;
+}
+
+.blackTable{
+    color: black;
+}
+
+/*#headerImage*/
